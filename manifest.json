@@ -11,7 +11,7 @@
 
     "theme-color": "#FFFFFF",
     "background-color": "#FFFFFF",
-    "start_url": "/",
+    "start_url": "/calculator.v1",
     "display": "standalone",
     "orientation": "portrait"
 
